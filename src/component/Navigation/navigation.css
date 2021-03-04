@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+
+.logo{
+    position: absolute;
+    float: left !important;
+    left: 95%  !important;
+    top: 25% !important;
+}
+h6{
+    font-family: 'Dancing Script', cursive;
+    font-size: 24px !important;
+    color: white  !important;
+    font-weight: 500;
+}

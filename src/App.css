@@ -1,0 +1,9 @@
+.sidebar {
+    background: lightgrey;
+    height:100%;
+    position: fixed !important;
+    z-index: 1;
+    overflow-y: auto;
+    will-change: transform;
+    backface-visibility: hidden;
+}

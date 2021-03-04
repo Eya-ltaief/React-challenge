@@ -1,0 +1,14 @@
+.body-card{
+    align-items: center;
+    text-align: center;
+}
+.card{
+    margin-top: 2%;
+    height: 200% !important;
+    
+}
+.card .btn{
+    color: white  !important;
+    background-color: salmon !important;
+    border: none !important;
+}

@@ -1,0 +1,12 @@
+.searchbar{
+    z-index: 1;
+    margin-top: 8%;
+    margin-left: 39%;
+    width: 40%;
+    border-radius: 15px;
+    padding: 0.5%;
+}
+.searchbar ::placeholder{
+    float: left;
+    color: black;
+}
